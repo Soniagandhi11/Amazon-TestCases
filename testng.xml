@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<suite name="Amazon" verbose="2">
+<test enabled="true" name="Amazon-test cases" preserve-order="true">
+	<classes>
+	 <class name="com.amazon.web.tests.TestCases">
+			<methods>
+				<include name="checkoutProcessForGuestUser"/>
+				<include name="checkoutProcessForLoginUser"/>
+				
+				
+			</methods>
+			
+		</class>	
+	</classes>
+  </test>
+  
+  </suite>
+  

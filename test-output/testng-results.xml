@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon" duration-ms="111067" started-at="2020-04-12T13:03:01 IST" finished-at="2020-04-12T13:04:52 IST">
+    <groups>
+    </groups>
+    <test name="Amazon-test cases" duration-ms="111067" started-at="2020-04-12T13:03:01 IST" finished-at="2020-04-12T13:04:52 IST">
+      <class name="com.amazon.web.tests.TestCases">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.amazon.web.tests.TestCases@49fc609f]" name="init" is-config="true" duration-ms="8816" started-at="2020-04-12T13:03:01 IST" finished-at="2020-04-12T13:03:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="checkoutProcessForLoginUser()[pri:2, instance:com.amazon.web.tests.TestCases@49fc609f]" name="checkoutProcessForLoginUser" duration-ms="102223" started-at="2020-04-12T13:03:09 IST" finished-at="2020-04-12T13:04:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutProcessForLoginUser -->
+      </class> <!-- com.amazon.web.tests.TestCases -->
+    </test> <!-- Amazon-test cases -->
+  </suite> <!-- Amazon -->
+</testng-results>
